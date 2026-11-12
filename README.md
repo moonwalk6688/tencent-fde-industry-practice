@@ -10,7 +10,7 @@
 
 ## 下载 ZIP 安装
 
-从 https://github.com/moonwalk6688/tencent-fde-industry-practice/releases/tag/v1.0.0 下载 ZIP，解压后进入其中的 tencent-fde-industry-practice 目录，运行 Python 3：
+从 https://github.com/moonwalk6688/tencent-fde-industry-practice/releases/tag/v1.1.0 下载 ZIP，解压后进入其中的 tencent-fde-industry-practice 目录，运行 Python 3：
 
     python install.py
 
@@ -31,3 +31,7 @@ macOS/Linux 的命令可能是 python3。默认安装到用户目录的 .agents/
     python skills/tencent-fde-industry-practice/scripts/read_source.py --source "你的OCR.md" --chapter 1 --limit 20
 
 工具会校验SHA-256；其他版本不能冒用此版行号。没有原文时仍可学习笔记，但不能核验精确原句或数值。行业数据、法律政策和厂商功能的现况须另查。
+
+## 2026-11-12 修订
+
+本次重读本地 OCR 可见文字并重写逐章决策卡、主题索引、速查和附录证据说明。原书、OCR 和图像仍不随包分发；精确引文需要使用者本人持有匹配来源。教学案例、报告估算与当前市场事实须分开使用。

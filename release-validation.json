@@ -1,9 +1,11 @@
 {
-  "version": "v1.0.0",
+  "version": "v1.1.0",
   "skill": "tencent-fde-industry-practice",
   "chapter_files": 10,
   "public_copy_audit": "passed",
   "install_test": "passed",
   "missing_source_behavior": "passed",
-  "original_included": false
+  "original_included": false,
+  "reviewed_ocr_visible_lines": 1745,
+  "revised": "2026-11-12"
 }
