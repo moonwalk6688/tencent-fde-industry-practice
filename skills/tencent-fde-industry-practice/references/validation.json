@@ -1,0 +1,10 @@
+{
+  "skill": "tencent-fde-industry-practice",
+  "source_sha256": "ee950e396b4b1edd05d1144ad3abf193c9dbb7cbd225dd8320138c0061097d38",
+  "source_lines": 1745,
+  "chapters": 10,
+  "coverage": "intro + continuous chapter ranges + backmatter indexed",
+  "links": "passed",
+  "reader": "chapter, image redaction, mismatch passed",
+  "ocr_warning": true
+}

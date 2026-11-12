@@ -1,0 +1,9 @@
+{
+  "version": "v1.0.0",
+  "skill": "tencent-fde-industry-practice",
+  "chapter_files": 10,
+  "public_copy_audit": "passed",
+  "install_test": "passed",
+  "missing_source_behavior": "passed",
+  "original_included": false
+}
